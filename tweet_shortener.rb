@@ -1,5 +1,7 @@
 def dictionary {
-  "hello" => 
+  "hello" => 'hi',
+  "to, two, too" => 2,
+  
 }
 end
 
