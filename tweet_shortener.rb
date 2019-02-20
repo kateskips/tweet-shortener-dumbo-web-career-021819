@@ -6,5 +6,5 @@ end
 def word_substituter
 end
 
-def bulk
+def bulk_tweet_shortener
 
